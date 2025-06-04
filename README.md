@@ -42,6 +42,6 @@ MYTHICON is licensed under the [MIT License](https://choosealicense.com/licenses
 
 
 ## Authors
-
-[@yp9435](https://github.com/yp9435)
+AR Keerthana
+https://github.com/keerthana777z
 
